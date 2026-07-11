@@ -1,4 +1,4 @@
-!pip install -q kagglehub
+#!pip install -q kagglehub
 
 import kagglehub, os, torch
 import torch.nn as nn
